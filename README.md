@@ -64,4 +64,4 @@ In this particular notebook I reduce the data down to (what I felt was) core sta
 * Fight 4 - Drew Dober
 * Fight 5 - Aleksandar Rakic
 
-Please view the full notebook with code: ![MMA_Fight_Predictions_UFC259.ipynb](https://github.com/danielbsimpson/MMA-ML-Predictions/blob/main/MMA_Fight_Predictions_UFC259.ipynb)
+Please view the full notebook with code: [MMA_Fight_Predictions_UFC259.ipynb](https://github.com/danielbsimpson/MMA-ML-Predictions/blob/main/MMA_Fight_Predictions_UFC259.ipynb)
