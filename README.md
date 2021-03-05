@@ -25,7 +25,7 @@ Being a huge fan of MMA, I wanted to design some Machine Learning Models to expe
 In this particular notebook I reduce the data down to (what I felt was) core stats, so despite this dataset having over 145 features, I reduce it down to height, weight, reach, win streak, lose streak, total wins, total losses, and total draws. In the future I will apply more features to see if the model accuracy improves at all.
 
 # UFC 259: Blachowicz vs Adesanya
-
+![](UFC_259.jpg)
 ### SVC Model Winner Prediction:
 * Fight 1 - Israel Adesanya
 * Fight 2 - Megan Anderson
