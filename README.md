@@ -24,6 +24,22 @@ Being a huge fan of MMA, I wanted to design some Machine Learning Models to expe
 
 In this particular notebook I reduce the data down to (what I felt was) core stats, so despite this dataset having over 145 features, I reduce it down to height, weight, reach, win streak, lose streak, total wins, total losses, and total draws. In the future I will apply more features to see if the model accuracy improves at all.
 
+# Model Accuracy
+## Training accuracy:
+* Gaussian Naive Bayes - 59.95% 
+* Logistic Regression - 62.37%
+* Decision Tree - 54.22%
+* KNN - 55.11%
+* Random Forest - 59.86%
+* Support Vector Classifier - 62.70%
+* XGBoost - 58.74%
+* Artificial Neural Network - 58.74%
+
+## Testing accuracy:
+* Logistic Regression - 62.53%
+* Random Forest - 61.83%
+* Support Vector Classifier - 63.84%
+
 # UFC 259: Blachowicz vs Adesanya
 ![](UFC_259_cover.jpg)
 
