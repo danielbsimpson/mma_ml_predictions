@@ -1,4 +1,4 @@
-# Predicting fight outcomes with basic fighter Stats in the UFC (MMA)
+# Predicting fight outcomes with basic fighter stats in the UFC (MMA)
 
 Using a data set from 1993-2019 of over 5000 fights, multiple machine learning models are created and evaluated.
 In the final step the models are used to predict the 5 main fights in UFC 259.
